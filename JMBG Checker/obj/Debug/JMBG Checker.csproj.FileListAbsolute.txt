@@ -1,0 +1,29 @@
+c:\users\pavle\onedrive\documents\visual studio 2017\Projects\JMBG Checker\JMBG Checker\bin\Debug\JMBG Checker.exe.config
+c:\users\pavle\onedrive\documents\visual studio 2017\Projects\JMBG Checker\JMBG Checker\bin\Debug\JMBG Checker.exe
+c:\users\pavle\onedrive\documents\visual studio 2017\Projects\JMBG Checker\JMBG Checker\bin\Debug\JMBG Checker.pdb
+c:\users\pavle\onedrive\documents\visual studio 2017\Projects\JMBG Checker\JMBG Checker\obj\Debug\JMBG Checker.csprojResolveAssemblyReference.cache
+c:\users\pavle\onedrive\documents\visual studio 2017\Projects\JMBG Checker\JMBG Checker\obj\Debug\JMBG_Checker.Properties.Resources.resources
+c:\users\pavle\onedrive\documents\visual studio 2017\Projects\JMBG Checker\JMBG Checker\obj\Debug\JMBG Checker.csproj.GenerateResource.Cache
+c:\users\pavle\onedrive\documents\visual studio 2017\Projects\JMBG Checker\JMBG Checker\obj\Debug\JMBG Checker.exe
+c:\users\pavle\onedrive\documents\visual studio 2017\Projects\JMBG Checker\JMBG Checker\obj\Debug\JMBG Checker.pdb
+c:\users\pavle\onedrive\documents\visual studio 2017\Projects\JMBG Checker\JMBG Checker\obj\Debug\JMBG_Checker.Form1.resources
+C:\Users\Filip\Desktop\JMBG-Checker-master\JMBG Checker\bin\Debug\JMBG Checker.exe.config
+C:\Users\Filip\Desktop\JMBG-Checker-master\JMBG Checker\bin\Debug\JMBG Checker.exe
+C:\Users\Filip\Desktop\JMBG-Checker-master\JMBG Checker\bin\Debug\JMBG Checker.pdb
+C:\Users\Filip\Desktop\JMBG-Checker-master\JMBG Checker\obj\Debug\JMBG Checker.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\JMBG-Checker-master\JMBG Checker\obj\Debug\JMBG_Checker.Form1.resources
+C:\Users\Filip\Desktop\JMBG-Checker-master\JMBG Checker\obj\Debug\JMBG_Checker.Properties.Resources.resources
+C:\Users\Filip\Desktop\JMBG-Checker-master\JMBG Checker\obj\Debug\JMBG Checker.csproj.GenerateResource.Cache
+C:\Users\Filip\Desktop\JMBG-Checker-master\JMBG Checker\obj\Debug\JMBG Checker.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\JMBG-Checker-master\JMBG Checker\obj\Debug\JMBG Checker.exe
+C:\Users\Filip\Desktop\JMBG-Checker-master\JMBG Checker\obj\Debug\JMBG Checker.pdb
+C:\Users\Filip\Desktop\JMBG-Checker\JMBG Checker\bin\Debug\JMBG Checker.exe.config
+C:\Users\Filip\Desktop\JMBG-Checker\JMBG Checker\bin\Debug\JMBG Checker.exe
+C:\Users\Filip\Desktop\JMBG-Checker\JMBG Checker\bin\Debug\JMBG Checker.pdb
+C:\Users\Filip\Desktop\JMBG-Checker\JMBG Checker\obj\Debug\JMBG Checker.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\JMBG-Checker\JMBG Checker\obj\Debug\JMBG_Checker.Form1.resources
+C:\Users\Filip\Desktop\JMBG-Checker\JMBG Checker\obj\Debug\JMBG_Checker.Properties.Resources.resources
+C:\Users\Filip\Desktop\JMBG-Checker\JMBG Checker\obj\Debug\JMBG Checker.csproj.GenerateResource.Cache
+C:\Users\Filip\Desktop\JMBG-Checker\JMBG Checker\obj\Debug\JMBG Checker.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\JMBG-Checker\JMBG Checker\obj\Debug\JMBG Checker.exe
+C:\Users\Filip\Desktop\JMBG-Checker\JMBG Checker\obj\Debug\JMBG Checker.pdb
